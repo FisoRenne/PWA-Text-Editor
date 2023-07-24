@@ -204,6 +204,7 @@ h1 {
   #navbar {
     justify-content: center;
   }
+  theme:minimal;
 
   h1 {
     font-size: 18px;
